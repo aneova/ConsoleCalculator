@@ -1,0 +1,2 @@
+C:\Users\Annega\source\repos\Calculator\Debug\Calculator.exe
+C:\Users\Annega\source\repos\Calculator\Debug\Calculator.pdb

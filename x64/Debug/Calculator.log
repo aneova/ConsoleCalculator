@@ -1,0 +1,3 @@
+﻿  Calculator.cpp
+C:\Users\Annega\source\repos\Calculator\Calculator.cpp(73,44): error C2227: left of '->Calculation' must point to class/struct/union/generic type
+C:\Users\Annega\source\repos\Calculator\Calculator.cpp(73,44): message : type is 'std::unique_ptr<Math,std::default_delete<Math>> (__cdecl *)(void)'
